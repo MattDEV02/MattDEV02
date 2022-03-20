@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MattDEV02
 - 👀 I’m interested in WEB Development
-- 🌱 I’m currently learning WEB Development
+- 🌱 I’m currently learning WEB Development and studying computer engineering
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me matteolambertucci3@gmail.com
 
