@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MattDEV02
+- 👋 Hi, I’m @MattDEV02 (Matteo Lambertucci)
 - 👀 I’m interested in WEB Development
 - 🌱 I’m currently learning WEB Development and studying computer engineering
 - 💞️ I’m looking to collaborate on ...
